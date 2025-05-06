@@ -1,0 +1,15 @@
+﻿r_id,path_name,substation_path,z1,z2,z3,z4,z5,voltage_kV,distance_km,Dm,x,B,Line_Max_Flow_MW,Line_Loss_Percentage,Line_Max_Reinforcement_MW,Line_Reinforcement_Cost_per_MWyr
+1,west_kalimantan_to_central_kalimantan_1,marau_to_sukamara,1,0,-1,0,0,150,303.97,6.299605249,0.351494418,2.844995393,105.2941608,0.030397,105.2941608,35178
+2,west_kalimantan_to_central_kalimantan_new,,1,0,-1,0,0,,303.97,6.299605249,0.351494418,2.844995393,500,0.030397,500,35178
+3,south_kalimantan_to_central_kalimantan_1,seberang_barito_to_selat,0,1,-1,0,0,150,280.44,6.299605249,0.351494418,2.844995393,114.1287479,0.028044,114.1287479,35178
+4,south_kalimantan_to_central_kalimantan_2,amuntai_to_tamianglayang,0,1,-1,0,0,150,280.44,6.299605249,0.351494418,2.844995393,114.1287479,0.028044,114.1287479,35178
+5,south_kalimantan_to_central_kalimantan_3,tanjung_to_buntok,0,1,-1,0,0,150,280.44,6.299605249,0.351494418,2.844995393,114.1287479,0.028044,114.1287479,35178
+6,south_kalimantan_to_central_kalimantan_new,,0,1,-1,0,0,,280.44,6.299605249,0.351494418,2.844995393,500,0.028044,500,35178
+7,south_kalimantan_to_east_kalimantan_1,tanjung_to_kuaro,0,1,0,-1,0,150,256.93,6.299605249,0.351494418,2.844995393,124.5719303,0.025693,124.5719303,35178
+8,south_kalimantan_to_east_kalimantan_2,sei_durian_to_grogot,0,1,0,-1,0,150,256.93,6.299605249,0.351494418,2.844995393,124.5719303,0.025693,124.5719303,35178
+9,south_kalimantan_to_east_kalimantan_new,,0,1,0,-1,0,,256.93,6.299605249,0.351494418,2.844995393,500,0.025693,500,35178
+10,central_kalimantan_to_east_kalimantan_1,bangkanai_to_melak,0,0,1,-1,0,150,337.54,6.299605249,0.351494418,2.844995393,94.82214271,0.033754,94.82214271,35178
+11,central_kalimantan_to_east_kalimantan_new,,0,0,1,-1,0,,337.54,6.299605249,0.351494418,2.844995393,500,0.033754,500,35178
+12,east_kalimantan_to_north_kalimantan_1,tanjung_selor_to_tanjung_redeb,0,0,0,1,-1,150,248.6,6.299605249,0.351494418,2.844995393,128.746042,0.02486,128.746042,35178
+13,east_kalimantan_to_north_kalimantan_2,tanjung_selor_to_tanjung_redeb,0,0,0,1,-1,500,248.6,6.299605249,0.351494418,2.844995393,1430.511578,0.02486,1430.511578,35178
+14,east_kalimantan_to_north_kalimantan_new,,0,0,0,1,-1,,248.6,6.299605249,0.351494418,2.844995393,500,0.02486,500,35178
